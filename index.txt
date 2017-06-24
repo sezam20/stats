@@ -1,8 +1,7 @@
-Correct
-1 / 1 points
+
 1. 
 
-Which of the following classifications of variable types is false?
+*Which of the following classifications of variable types is false?*
 
 Student height → continuous numerical
 
